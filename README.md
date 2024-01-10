@@ -1,25 +1,5 @@
-```
-from Earth import Life
-class Myself(Life):
-    def __init__(self,human):
-        super().__init__(human)
-        self.name= 'Swadhin Biswas'
-        self.occupation='Computer Science Student'
-        self.code=[
-            'Python',
-            'JavaScript',
-            'C/C++',
-            'Rust',
-            'Java',
-        ]
-    def framework(self):
-        return [
-            'Django',
-            'FastAPI',
-            'React',
-            'Vite',
-            'Flask',
-            'Rest API'
-        ]
 
-```
+
+
+
+![carbon (5)](https://github.com/swadhingithub/swadhingithub/assets/144092840/88e3f57d-69f2-432c-947a-bfb020fd4655)
